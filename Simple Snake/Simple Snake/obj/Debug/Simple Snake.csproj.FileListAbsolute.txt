@@ -1,0 +1,10 @@
+C:\Users\balto\source\repos\Simple Snake\Simple Snake\bin\Debug\Simple Snake.exe.config
+C:\Users\balto\source\repos\Simple Snake\Simple Snake\bin\Debug\Simple Snake.exe
+C:\Users\balto\source\repos\Simple Snake\Simple Snake\bin\Debug\Simple Snake.pdb
+C:\Users\balto\source\repos\Simple Snake\Simple Snake\obj\Debug\Simple Snake.csproj.AssemblyReference.cache
+C:\Users\balto\source\repos\Simple Snake\Simple Snake\obj\Debug\Simple_Snake.Properties.Resources.resources
+C:\Users\balto\source\repos\Simple Snake\Simple Snake\obj\Debug\Simple Snake.csproj.GenerateResource.cache
+C:\Users\balto\source\repos\Simple Snake\Simple Snake\obj\Debug\Simple Snake.csproj.CoreCompileInputs.cache
+C:\Users\balto\source\repos\Simple Snake\Simple Snake\obj\Debug\Simple Snake.exe
+C:\Users\balto\source\repos\Simple Snake\Simple Snake\obj\Debug\Simple Snake.pdb
+C:\Users\balto\source\repos\Simple Snake\Simple Snake\obj\Debug\Simple_Snake.Form1.resources
