@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>CHIP8++</h1>
+  <h1>Simple Snake</h1>
   <p>A simple rendition of Snake with endless random levels written in C# Windows Forms</p>
   <img src=".github/demo.gif" alt="demonstration"/>
 </div>
